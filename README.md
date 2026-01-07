@@ -15,8 +15,8 @@ This project demonstrates how to provision AWS infrastructure using terraform.
 
 ### how to run the code
 1. Configure AWS CLI
-2. Run `terraform init`
-3. Run `terraform apply`
+2. Run terraform init
+3. Run terraform apply
 
 ### author
 Adam Quinney
